@@ -14,7 +14,7 @@
   list-style: none;
 }
 
-.links {
+.link {
   text-decoration: none;
 }
 
@@ -56,7 +56,6 @@ body {
   line-height: 1.14;
   letter-spacing: 0.02em;
   color: var(--text-color);
-  text-decoration: none;
 }
 
 .list .contact-links:hover,
@@ -151,7 +150,6 @@ body {
   font-size: 26px;
   line-height: 1.19;
   color: var(--accent-color);
-  text-decoration: none;
 }
 
 .address {
@@ -159,7 +157,6 @@ body {
   font-weight: normal;
   line-height: 1.71;
   color: var(--basic-color);
-  text-decoration: none;
 }
 
 .contact-footer {
